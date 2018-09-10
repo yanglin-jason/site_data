@@ -2,7 +2,7 @@
 title: About me
 date: 2018-06-24 17:24:00
 ---
-I'm currently a researcher in [Noah's Ark Lab, Huawei](http://www.noahlab.com.hk/). My research mainly focuses on empowering the next-generation networks with the Artificial Intelligence.
+I'm currently a researcher in [Noah's Ark Lab, Huawei](http://www.noahlab.com.hk/). My research mainly focuses on empowering the next-generation networks with the artificial intelligence.
 
 Before that, I have received my Ph.D. degree from the Department of Computer Science and Technology, Hong Kong University of Science and Technology ([HKUST](http://www.ust.hk/)). I worked with Prof. Qian Zhang in Huawei-HKUST Invovation Lab there. Also, I obtained my B.S degree in Computer Science from South China University of Technology ([SCUT](http://en.scut.edu.cn/) ) in June 2008.
 
